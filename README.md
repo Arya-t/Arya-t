@@ -26,12 +26,12 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 - **Method:** Formulated the problem as a **Markov Decision Process (MDP)** and proposed **TPPO (Transformer-based PPO)**:
   - Designed **Dual-head Decoding** and **Residual Feature Fusion** for topology perception.
   - Integrated **Real Option Analysis (ROA)** framework for reward shaping to quantify long-term value and address sparse feedback.
-- **Outcome:** Improved NPV by **34.7%** compared to static strategies and Option Value by **51.6%** compared to heuristics in NYC experiments.
+- **Outcome:** Improved NPV by **34.7%** compared to static strategies and Option Value by **51.6%** compared to heuristics in NYC MoD experiments.
 - 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (PDF)](LINK_HERE)
 
 ---
 
-### 3. 📦 [Journal Paper] Multi-Objective Reinforcement Learning for Order Fulfillment with Order Postponement
+### 3. 📦 [Journal Paper] Multi-Objective Reinforcement Learning for Order Fulfillment with Postponement
 > **Role:** First Author | **Status:** 🔄 *Major Revision at EJOR (JCR Q1)*
 - **Scenario:** Balancing the high-dimensional trade-off between operational costs and multi-dimensional workload balance (intra/inter-period).
 - **Method:** Proposed **GMORL-PSL** (Graph-based Multi-Objective RL with Pareto Set Learning):

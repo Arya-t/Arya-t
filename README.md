@@ -10,7 +10,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 ## 🚀 Key Research Projects
 
 ### 1. 🤖 [RLHF Project] Autonomous Fleet Integration in On-Demand Fulfillment
-> **Role:** Project Leader | **Status:** 🟡 *Manuscript in Preparation*
+> **Role:** Project Leader | **Status:** *Manuscript in Preparation*
 - **Scenario:** Enhancing the robustness of **Autonomous Fleets (AV)** in corner cases and aligning algorithmic decisions with "social compliance" rewards.
 - **Method:** Constructed a **RLHF (Reinforcement Learning from Human Feedback)** pipeline:
   - Modeled human safety preferences using the **Bradley-Terry model**.
@@ -21,7 +21,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 ---
 
 ### 2. 📈 [Journal Paper] Sequential Investment Decision via Deep Reinforcement Learning
-> **Role:** First Author | **Status:** ✅ *Accepted by INFORMS TSL conference 2026 / Submitted to TRB*
+> **Role:** First Author | **Status:** *Accepted by INFORMS TSL conference 2026 / Submitted to TRB*
 - **Scenario:** Solving sequential network expansion problems considering dynamic spatial spillovers and parallel investment quantity constraints.
 - **Method:** Formulated the problem as a **Markov Decision Process (MDP)** and proposed **TPPO (Transformer-based PPO)**:
   - Designed **Dual-head Decoding** and **Residual Feature Fusion** for topology perception.
@@ -32,10 +32,10 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 ---
 
 ### 3. 📦 [Journal Paper] Multi-Objective Reinforcement Learning for Order Fulfillment with Postponement
-> **Role:** First Author | **Status:** 🔄 *Major Revision at EJOR (JCR Q1)*
+> **Role:** First Author | **Status:** *Major Revision at EJOR (JCR Q1)*
 - **Scenario:** Balancing the high-dimensional trade-off between operational costs and multi-dimensional workload balance (intra/inter-period).
 - **Method:** Proposed **GMORL-PSL** (Graph-based Multi-Objective RL with Pareto Set Learning):
-  - Coupled **MOMDP** with **MOVRPTW** (Bi-level modeling).
+  - Coupled **MOMDP** (Multi-objective MDP) with **MOVRPTW** (Multi-objective Vehicle Routing Problem with Time Window).
   - Utilized **Hypernetwork** for dynamic policy generation approximating the continuous Pareto Front.
 - **Outcome:** Reduced inter-period workload imbalance by **21.43%**.
 - 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (Preprint)](LINK_HERE)
@@ -43,9 +43,9 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 ---
 
 ### 4. 💊 [Journal Paper] Balanced Pharmaceutical Logistics Routing with Hybrid Heuristics
-> **Role:** First Author | **Status:** 🎉 *Published in IJPR (JCR Q1)*
+> **Role:** First Author | **Status:** *Published in IJPR (JCR Q1)*
 - **Scenario:** Addressing transport resource imbalance and "tide effects" in multi-depot cold chain collaboration.
-- **Method:** Modeled as **MDVRPTW** with explicit vehicle flow balance constraints:
+- **Method:** Modeled as **MDVRPTW** (Multi-depot Vehicle Routing Problem with Time Window) with explicit vehicle flow balance constraints:
   - Solved using **Hybrid SAVNS** (Simulated Annealing + Variable Neighborhood Search).
 - **Outcome:** Achieved **98.13%** fleet loading rate and **37.29%** average cost reduction compared to stand-alone scenarios.
 - 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (DOI/PDF)](LINK_HERE)

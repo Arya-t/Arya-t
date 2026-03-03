@@ -14,7 +14,9 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 - **Method:** Proposed **TPPO (Transformer-based PPO)** with Dual-head Decoding & Residual Feature Fusion.
 - **Highlight:** Integrated **LSMC** for reward shaping to solve sparse feedback in long-horizon decisions.
 - **Outcome:** Outperformed Transformer-SAC; NPV improved by **34.7%** in NYC experiments.
-- 🔗 [Code & Paper](./) #### 2. [RLHF] Autonomous Fleet Integration in On-Demand Fulfillment
+- 🔗 [Code & Paper](./)
+
+#### 2. [RLHF] Autonomous Fleet Integration in On-Demand Fulfillment
 > **Focus:** Human-AI Alignment & Safety Compliance
 - **Method:** **RLHF (Reinforcement Learning from Human Feedback)** pipeline (SFT -> Reward Model -> PPO).
 - **Highlight:** Aligned autonomous fleet behavior with human dispatcher preferences using the Bradley-Terry model.

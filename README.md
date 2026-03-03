@@ -26,7 +26,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 - **Method:** Formulated the problem as a **Markov Decision Process (MDP)** and proposed **TPPO (Transformer-based PPO)**:
   - Designed **Dual-head Decoding** and **Residual Feature Fusion** for topology perception.
   - Integrated **Real Option Analysis (ROA)** framework for reward shaping to quantify long-term value and address sparse feedback.
-- **Outcome:** Improved NPV by **34.7%** compared to static strategies and Option Value by **51.6%** compared to heuristics in NYC MoD experiments.
+- **Outcome:** Improved NPV by **34.7%** compared to all-in deployment policy and Option Value by **51.6%** compared to heuristics in NYC MoD experiments.
 - 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (PDF)](LINK_HERE)
 
 ---
@@ -35,9 +35,9 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 > **Role:** First Author | **Status:** *Major Revision at EJOR (JCR Q1)*
 - **Scenario:** Balancing the high-dimensional trade-off between operational costs and multi-dimensional workload balance (intra/inter-period).
 - **Method:** Proposed **GMORL-PSL** (Graph-based Multi-Objective RL with Pareto Set Learning):
-  - Coupled **MOMDP** (Multi-objective MDP) with **MOVRPTW** (Multi-objective Vehicle Routing Problem with Time Window).
+  - Coupled **MOMDP** (Multi-objective MDP) with **MOVRPTW** (Multi-objective Vehicle Routing Problem with Time Windows).
   - Utilized **Hypernetwork** for dynamic policy generation approximating the continuous Pareto Front.
-- **Outcome:** Reduced inter-period workload imbalance by **21.43%**.
+- **Outcome:** Outperformed scalarized MORL and static rules. Compared to the no-postponement baseline, reduced total cost by **6.92%**, intra-period workload imbalance by **13.55%**, and inter-period imbalance by **21.43%**, while boosting fleet utilization by **12.00%**.
 - 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (Preprint)](LINK_HERE)
 
 ---
@@ -45,7 +45,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 ### 4. 💊 [Journal Paper] Balanced Pharmaceutical Logistics Routing with Hybrid Heuristics
 > **Role:** First Author | **Status:** *Published in IJPR (JCR Q1)*
 - **Scenario:** Addressing transport resource imbalance and "tide effects" in multi-depot cold chain collaboration.
-- **Method:** Modeled as **MDVRPTW** (Multi-depot Vehicle Routing Problem with Time Window) with explicit vehicle flow balance constraints:
+- **Method:** Modeled as **MDVRPTW** (Multi-depot Vehicle Routing Problem with Time Windows) with explicit vehicle flow balance constraints:
   - Solved using **Hybrid SAVNS** (Simulated Annealing + Variable Neighborhood Search).
 - **Outcome:** Achieved **98.13%** fleet loading rate and **37.29%** average cost reduction compared to stand-alone scenarios.
 - 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (DOI/PDF)](LINK_HERE)

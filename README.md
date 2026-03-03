@@ -3,7 +3,7 @@
 🎓 **Ph.D. Candidate in Management Science & Engineering @ Tongji University**
 🔭 **Visiting Researcher @ Université Paris-Saclay (IBISC Lab)**
 
-I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**, focusing on intelligent decision-making in logistics, autonomous fleet management, and sequential investment.
+I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**, focusing on intelligent decision-making in network design and optimization, order fulfillment management, and sequential decision processes.
 
 ---
 

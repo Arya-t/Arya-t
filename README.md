@@ -20,9 +20,9 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 
 ---
 
-### 2. 📈 [Journal Paper] Sequential Investment Decision via Transformer-PPO
+### 2. 📈 [Journal Paper] Sequential Investment Decision via Deep Reinforcement Learning
 > **Role:** First Author | **Status:** ✅ *Accepted by INFORMS TSL conference 2026 / Submitted to TRB*
-- **Scenario:** Solving sequential network expansion problems considering **dynamic spatial spillovers** and **parallel investment quantity constraints**.
+- **Scenario:** Solving sequential network expansion problems considering dynamic spatial spillovers and parallel investment quantity constraints.
 - **Method:** Formulated the problem as a **Markov Decision Process (MDP)** and proposed **TPPO (Transformer-based PPO)**:
   - Designed **Dual-head Decoding** and **Residual Feature Fusion** for topology perception.
   - Integrated **Real Option Analysis (ROA)** framework for reward shaping to quantify long-term value and address sparse feedback.
@@ -31,7 +31,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 
 ---
 
-### 3. 📦 [Journal Paper] Multi-Objective Order Fulfillment with Order Postponement
+### 3. 📦 [Journal Paper] Multi-Objective Reinforcement Learning for Order Fulfillment with Order Postponement
 > **Role:** First Author | **Status:** 🔄 *Major Revision at EJOR (JCR Q1)*
 - **Scenario:** Balancing the high-dimensional trade-off between operational costs and multi-dimensional workload balance (intra/inter-period).
 - **Method:** Proposed **GMORL-PSL** (Graph-based Multi-Objective RL with Pareto Set Learning):
@@ -42,7 +42,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 
 ---
 
-### 4. 💊 [Journal Paper] Sustainable Pharmaceutical Logistics Routing
+### 4. 💊 [Journal Paper] Balanced Pharmaceutical Logistics Routing with Hybrid Heuristics
 > **Role:** First Author | **Status:** 🎉 *Published in IJPR (JCR Q1)*
 - **Scenario:** Addressing transport resource imbalance and "tide effects" in multi-depot cold chain collaboration.
 - **Method:** Modeled as **MDVRPTW** with explicit vehicle flow balance constraints:

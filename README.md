@@ -21,18 +21,18 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 ---
 
 ### 2. 📈 [Journal Paper] Sequential Investment Decision via Transformer-PPO
-> **Target:** TRB / INFORMS TSL | **Status:** ✅ *Accepted by TSL 2026 / Submitted to TRB*
-- **Scenario:** Solving sequential network expansion problems under dynamic spatial spillovers and non-stationary demand.
-- **Method:** Proposed **TPPO (Transformer-based PPO)**:
+> **Role:** First Author | **Status:** ✅ *Accepted by INFORMS TSL conference 2026 / Submitted to TRB*
+- **Scenario:** Solving sequential network expansion problems considering **dynamic spatial spillovers** and **parallel investment quantity constraints**.
+- **Method:** Formulated the problem as a **Markov Decision Process (MDP)** and proposed **TPPO (Transformer-based PPO)**:
   - Designed **Dual-head Decoding** and **Residual Feature Fusion** for topology perception.
-  - Integrated **LSMC** (Least Squares Monte Carlo) for reward shaping to address sparse feedback.
-- **Outcome:** Improved NPV by **34.7%** compared to static strategies in NYC real-world experiments.
-- 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (Preprint)](LINK_HERE)
+  - Integrated **Real Option Analysis (ROA)** framework for reward shaping to quantify long-term value and address sparse feedback.
+- **Outcome:** Improved NPV by **34.7%** compared to static strategies and Option Value by **51.6%** compared to heuristics in NYC experiments.
+- 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (PDF)](LINK_HERE)
 
 ---
 
 ### 3. 📦 [Journal Paper] Multi-Objective Order Fulfillment with Order Postponement
-> **Target:** EJOR | **Status:** 🔄 *Major Revision at EJOR (JCR Q1)*
+> **Role:** First Author | **Status:** 🔄 *Major Revision at EJOR (JCR Q1)*
 - **Scenario:** Balancing the high-dimensional trade-off between operational costs and multi-dimensional workload balance (intra/inter-period).
 - **Method:** Proposed **GMORL-PSL** (Graph-based Multi-Objective RL with Pareto Set Learning):
   - Coupled **MOMDP** with **MOVRPTW** (Bi-level modeling).
@@ -43,7 +43,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 ---
 
 ### 4. 💊 [Journal Paper] Sustainable Pharmaceutical Logistics Routing
-> **Journal:** IJPR | **Status:** 🎉 *Published in IJPR (JCR Q1)*
+> **Role:** First Author | **Status:** 🎉 *Published in IJPR (JCR Q1)*
 - **Scenario:** Addressing transport resource imbalance and "tide effects" in multi-depot cold chain collaboration.
 - **Method:** Modeled as **MDVRPTW** with explicit vehicle flow balance constraints:
   - Solved using **Hybrid SAVNS** (Simulated Annealing + Variable Neighborhood Search).

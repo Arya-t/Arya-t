@@ -48,7 +48,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
 - **Method:** Modeled as **MDVRPTW** (Multi-depot Vehicle Routing Problem with Time Windows) with explicit vehicle flow balance constraints:
   - Solved using **Hybrid SAVNS** (Simulated Annealing + Variable Neighborhood Search).
 - **Outcome:** Achieved **98.13%** fleet loading rate and **37.29%** average cost reduction compared to stand-alone scenarios.
-- 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (DOI/PDF)](LINK_HERE)
+- 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (DOI)](https://doi.org/10.1080/00207543.2023.2283566)
 
 ---
 

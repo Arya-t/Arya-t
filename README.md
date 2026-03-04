@@ -38,7 +38,7 @@ I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**
   - Coupled **MOMDP** (Multi-objective MDP) with **MOVRPTW** (Multi-objective Vehicle Routing Problem with Time Windows).
   - Utilized **Hypernetwork** for dynamic policy generation approximating the continuous Pareto Front.
 - **Outcome:** Outperformed scalarized MORL and static rules. Compared to the no-postponement baseline, reduced total cost by **6.92%**, intra-period workload imbalance by **13.55%**, and inter-period imbalance by **21.43%**, while boosting fleet utilization by **12.00%**.
-- 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (Preprint)](LINK_HERE)
+- 🔗 **Links:** [💻 View Code](./) | [📄 Read Paper (Preprint)](http://dx.doi.org/10.2139/ssrn.4889746)
 
 ---
 

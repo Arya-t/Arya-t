@@ -1,7 +1,7 @@
 # Hi there, I'm Tingting (Arya) Chen 👋
 
-🎓 **Ph.D. Candidate in Management Science & Engineering @ Tongji University**
-🔭 **Visiting Researcher @ Université Paris-Saclay (IBISC Lab)**
+🎓 **Ph.D. Candidate in Management Science & Engineering at Tongji University**
+🔭 **Visiting Researcher at Université Paris-Saclay (IBISC Lab)**
 
 I specialize in **Operations Research (OR)** and **Reinforcement Learning (RL)**, focusing on intelligent decision-making in network design and optimization, order fulfillment management, and sequential decision processes.
 

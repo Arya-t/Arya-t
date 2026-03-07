@@ -9,14 +9,15 @@ I specialize in **Operations Research (OR)** with **Reinforcement Learning (RL)*
 
 ## 🚀 Key Research Projects
 
-### 1. 🤖 [RLHF Project] Autonomous Fleet Integration in On-Demand Fulfillment
-> **Role:** Project Leader | **Status:** *Manuscript in Preparation*
-- **Scenario:** Enhancing the robustness of **Autonomous Fleets (AV)** in corner cases and aligning algorithmic decisions with "social compliance" rewards.
-- **Method:** Constructed a **RLHF (Reinforcement Learning from Human Feedback)** pipeline:
-  - Modeled human safety preferences using the **Bradley-Terry model**.
-  - Fine-tuned policy via **PPO** with KL-divergence constraints.
-- **Outcome:** Reduced human takeover rate by **35%** and improved punctuality by **12%**.
-- 🔗 **Links:** [💻 View Code](./)
+### 1. 🤖 [RLHF Project] LLM-Aligned Dynamic Pricing & Dispatch for Hybrid Fulfillment Fleets
+> **Role:** Project Lead | **Status:** *Manuscript in Preparation*
+- **Scenario:** Engineered an RL environment for a Hybrid Fleet (Autonomous Vehicles + Crowdsourced), tackling the high-dimensional dual-decision bottleneck: continuous AV spatial rebalancing vs. discrete crowdsourced surge pricing.
+- **Method:** Built a full **RLHF pipeline** with controlled A/B experimentation:
+  - Trained a strong expert prior via **Behavior Cloning (BC)**.
+  - Implemented two branches: **(A) PPO -> LLM preference labeling -> DPO**, **(B) traditional PPO + learned RM**.
+  - Evaluated with multi-seed benchmarking on reward, timeout, empty-trip cost, and service equity.
+- **Outcome:** Best aligned policy achieved **+15.74% total reward** vs BC baseline, with **-6.24% relocation cost** and comparable timeout rate (**-0.16%**) across 5 seeds.
+- 🔗 **Links:** [💻 View Code](https://github.com/Arya-t/RLHF-Autonomous-Fleet)
 
 ---
 

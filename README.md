@@ -15,7 +15,7 @@ I specialize in **Operations Research (OR)** with **Reinforcement Learning (RL)*
 - **Method:** Built a decoupled** LLM-RLHF pipeline** to overcome the "alignment tax" seen in traditional online PPO+RM:
   - Trained an expert prior via Behavior Cloning (BC), followed by unconstrained PPO to explore the theoretical profit upper bound.
   - Designed an adversarial LLM preference sampling strategy (Qwen-based), utilizing hard-negative mining and focus-state sampling (targeting peak hours and remote zones) to heavily penalize "price whiplash" and remote crowdsourced worker fatigue.
-- **Outcome:** The DPO-aligned policy successfully bypassed the profit collapse of traditional PPO+RM. It achieved Pareto optimality with **+15.74%** total reward and **-6.24%** relocation cost vs. BC. Crucially, it suppressed malignant price surges (whiplash reduced by **>40%** vs. greedy rules) and proactively dispatched AVs to remote areas, actively reducing crowdsourced rider stress while maintaining a stable timeout rate.
+- **Outcome:** The DPO-aligned policy successfully bypassed the profit collapse of traditional PPO+RM. It achieved Pareto optimality with **+17.08%** total reward and **-6.30%** relocation cost vs. BC. Crucially, it suppressed malignant price surges and proactively dispatched AVs to remote areas, actively reducing crowdsourced rider stress while maintaining a stable timeout rate.
 - 🔗 **Links:** [💻 View Code](https://github.com/Arya-t/RLHF-Autonomous-Fleet)
 
 ---

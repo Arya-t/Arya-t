@@ -27,7 +27,7 @@ I specialize in **Operations Research (OR)** with **Reinforcement Learning (RL)*
   - Designed **Dual-head Decoding** and **Residual Feature Fusion** for topology perception.
   - Integrated **Real Option Analysis (ROA)** framework for reward shaping to quantify long-term value and address sparse feedback.
 - **Outcome:** Improved NPV by **34.7%** compared to all-in deployment policy and Option Value by **51.6%** compared to heuristics in NYC MoD experiments.
-- 🔗 **Links:** [💻 View Code](https://github.com/Arya-t/TPPO-Sequential-Investment) | [📄 Read Paper (PDF)](LINK_HERE)
+- 🔗 **Links:** [💻 View Code](https://github.com/Arya-t/TPPO-Sequential-Investment) | [📄 Read Paper (PDF)](https://arxiv.org/abs/2603.08188)
 
 ---
 
